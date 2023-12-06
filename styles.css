@@ -1,0 +1,71 @@
+.house {
+ color: aqua;   
+ background-color: beige;
+ font-size: 80px;
+ margin-right: 60px;
+}
+.flower {
+    color: blueviolet;
+    background-color: bisque;
+    font-size: 70px;
+    margin-right: 50px;
+}
+   .book{
+    width: 600px;
+    height: 600px;
+    background-color: blanchedalmond;
+    margin: auto;
+   }
+
+    .bed{
+        width: 400px;
+        height: 200px;
+        background-color: rgb(153, 113, 113);
+        border-radius:80px ;
+        margin: auto;
+    
+    }
+.home{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(208, 199, 216);
+    border-radius:80px ;
+    margin: auto;
+}
+ .image-conatiner{
+    overflow: hidden;
+    width: 10px;
+    height: 10px;
+
+ }
+ .parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .parent{
+    display: grid;
+    margin: auto;
+ }
+
+ .parent{
+    border-radius: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+ }
+ .market{
+    color: black;
+    font: 1em sans-serif;
+    font-size: medium;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    border: 2px salmon;
+
+
+ }
+ .green{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+ }
