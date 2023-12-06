@@ -11,27 +11,28 @@
     margin-right: 50px;
 }
    .book{
-    width: 600px;
+    width: 700px;
     height: 600px;
-    background-color: blanchedalmond;
+    background-color: rgb(240, 232, 219);
     margin: auto;
+    background-image: -moz-linear-gradient(c:\Users\ROBERTA\Downloads\d41586-018-01021-5_15387858.jpg) ;
    }
 
     .bed{
-        width: 400px;
+        width: 300px;
         height: 200px;
-        background-color: rgb(203, 200, 233);
-        border-radius:80px ;
+        background-color: rgb(228, 175, 132);
+        border-radius:70px ;
         margin: auto;
+        padding-top: 100px;
     
     }
 .home{
-    width: 400px;
-    height: 200px;
-    background-color: rgb(108, 76, 136);
-    border-radius:80px ;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(228, 216, 238);
+    border-radius:70px ;
     margin: auto;
-    padding-top: 100px;
 }
  .image-conatiner{
     overflow: hidden;
@@ -56,12 +57,17 @@
  }
  .market{
     color: black;
-    font: 1em sans-serif;
-    font-size: medium;
+    font: italic;
+    font-size: 15px;
     margin: auto;
     height: 150px;
     width: 150px;
     border: 2px salmon;
+    text-align: center;
+    color: rgb(252, 253, 253);
+    
+
+
 
 
  }
@@ -69,4 +75,5 @@
     height: 150px;
     width: 150px;
     margin: auto;
+    text-align: center;
  }
