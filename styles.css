@@ -20,7 +20,7 @@
     .bed{
         width: 400px;
         height: 200px;
-        background-color: rgb(153, 113, 113);
+        background-color: rgb(203, 200, 233);
         border-radius:80px ;
         margin: auto;
     
@@ -28,9 +28,10 @@
 .home{
     width: 400px;
     height: 200px;
-    background-color: rgb(208, 199, 216);
+    background-color: rgb(108, 76, 136);
     border-radius:80px ;
     margin: auto;
+    padding-top: 100px;
 }
  .image-conatiner{
     overflow: hidden;
